@@ -1,1 +1,8 @@
-# Stock-Return-Prediction-Model
+# Predicting Stock Return using CAPM and Fama French
+
+## Details:
+
+The following objective are achieved during the project:
+- Implemented the CAPM model using Python and its libraries and estimated the price of stocks with an accuracy of 92%
+- Analysed and compared various models based on their underlying factors, i.e., technical, fundamental, or macroeconomic
+- Quantified risk & rewards by plotting the Efficient Frontier Graph to obtain optimal weight for a portfolio with max. Sharpe ratio
